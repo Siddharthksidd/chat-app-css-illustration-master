@@ -33,8 +33,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Siddharthksidd/chat-app-css-illustration-master)
-- Live Site URL: [Add live site URL here](https://siddharthksidd.github.io/chat-app-css-illustration-master/)
+- Solution URL: [Click here](https://github.com/Siddharthksidd/chat-app-css-illustration-master)
+- Live Site URL: [Click here](https://siddharthksidd.github.io/chat-app-css-illustration-master/)
 
 ## My process
 
