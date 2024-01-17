@@ -51,7 +51,7 @@ I have praticaly experienced complex styling properties of CSS in this project.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me for better understanding of the CSS properties.
+- [W3schools.com](https://www.w3schools.com/) - This helped me for better understanding of the CSS properties.
 
 ## Author
 
